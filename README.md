@@ -14,7 +14,7 @@ Organizations inject BDD (Behaviour-driven Development) techniques to continuous
 ## How to use BDD code with Requirements?
 Gherkin editor is provided in the Requirements module. Test Scenarios for requirement are written in BDD code. Once the code is finalized, it can be pushed to GitHub/Bitbucket/SVN for the use of automation testing. Once code is pushed to repository and updated in the repository. Users can pull the updated code from repository to QMetry.
 
-    Push Code to Repository
+### Push Code to Repository
         Step 1: Open the Requirement details page.
         Step 2: Expand the BDD section on the page.
         Step 3: Write BDD code to the left panel of BDD section.
@@ -26,7 +26,7 @@ Gherkin editor is provided in the Requirements module. Test Scenarios for requir
             •    Notify Automation Engineer: Select any user to be notified on push event
             •    Comment: Add comments in order to push code.
         Step 5: Click on ‘Save’ and ‘Push’.
-    Pull Code from Repository
+### Pull Code from Repository
         Step 1: Open the Requirement details page.
         Step 2: Expand the BDD section on the page.
         Step 3: Click on ‘Pull’.
